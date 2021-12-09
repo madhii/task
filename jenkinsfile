@@ -1,0 +1,10 @@
+pipeline{
+ agent any
+  stages{
+   stage('webhook'){
+     steps{
+      echo "hello madhi"
+      }
+      }
+      }
+      }
